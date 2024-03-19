@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    font-size:60px;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+button{
+    padding: 8px 16px;
+    background-color: rgb(230, 230, 230);
+    color:black;
+    font-family:'Courier New';
+    font-size:large;
+}
+
+body {
+    background-color: #cad9f2;
+    background-size: cover;
+    background-position: center;
+  }
+
+div{
+    padding:30px;
+}

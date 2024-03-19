@@ -1,0 +1,55 @@
+html{
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1{
+    font: size 36px;
+    text-align:center
+}
+/* style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Gaya untuk tag <body> */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #dcd5c1;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Gaya untuk tag <h1> */
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  /* Gaya untuk tag <h3> */
+  h3 {
+    color: rgb(105, 72, 23);
+    margin-top: 30px;
+  }
+
+  /* Gaya untuk gambar */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gaya untuk paragraf */
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+    margin: 20px;
+    padding: 0 20px;
+    text-align: justify;
+  }
